@@ -1,3 +1,2 @@
 Archivo de prueba
-modificacion para hacer push
-modificacion para hacer pull
+Linea modificada en remote
